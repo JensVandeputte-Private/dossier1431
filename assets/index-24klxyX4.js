@@ -55,7 +55,7 @@ Met schepen van hout voer ik wijd en zijd.
 Mijn verhaal staat gegraveerd, maar waar ging ik heen?
 In Jelling lieten ze mij niet alleen.
 Men kent mij om reizen, handel en kracht -
-Zoek mij maar wees bedacht!`,type:`tekst`,vraag:`Blijkbaar ben ik de geschiedenisboeken ingegaan als de Koning met de blauwe tanden. Blauwtand of Bluetooth. Ik was Koning van Denemarken en Noorwegen en heb er velen bekeerd tot het Christendom. Dat konden ze in Frankrijk wel smaken. Kan je mijn naam vinden?`,antw:`Harald`,opties:null,cIdx:null,codes:null,letter:{rood:`E`,blauw:`V`},bonus:null,volg:{rood:7,blauw:5}},7:{lat:49.4377,lng:1.0878,naam:`Promenade Commandant Charcot`,intro:`Vuur nam haar lichaam. Water nam de rest.
+Zoek mij maar wees bedacht!`,type:`tekst`,vraag:`Blijkbaar ben ik de geschiedenisboeken ingegaan als de Koning met de blauwe tanden. Blauwtand of Bluetooth. Ik was Koning van Denemarken en Noorwegen en heb er velen bekeerd tot het Christendom. Dat konden ze in Frankrijk wel smaken. Kan je mijn naam vinden?`,antw:`HARALD`,opties:null,cIdx:null,codes:null,letter:{rood:`E`,blauw:`V`},bonus:null,volg:{rood:7,blauw:5}},7:{lat:49.4377,lng:1.0878,naam:`Promenade Commandant Charcot`,intro:`Vuur nam haar lichaam. Water nam de rest.
 Geen graf. Geen plaats om te herinneren.
 Men wilde haar herinnering wissen, zelfs na haar dood.
 Men wilde dat het volk Jeanne zich niet zou herinneren. Daarom werden haar assen in de Seine rivier gestrooid.
